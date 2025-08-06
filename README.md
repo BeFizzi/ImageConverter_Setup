@@ -23,7 +23,7 @@ Ein einfaches Tool, um ein einzelnes Bild zu laden, anzuzeigen und in ein andere
 
 ## 📸 Beispiel
 
-![Vorschaubild](./assets/screenshot.png)
+![Vorschaubild](./Preview.png)
 
 ## 🛠️ Voraussetzungen
 
